@@ -1,0 +1,17 @@
+{
+  "name": "@_zitus_/simple-logger",
+  "version": "1.0.2",
+  "description": "A simple colorful logger for console and files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loggin"
+  ],
+  "author": "Francesco Zito",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
