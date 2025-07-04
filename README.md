@@ -105,7 +105,7 @@ Running `node app.js` yields:
 
 ## Contributing
 
-Pull requests and issues are welcome on [GitHub](https://github.com/_zitus_/simple-logger).
+Pull requests and issues are welcome on [GitHub](https://github.com/zitus91/simple-logger).
 
 ---
 

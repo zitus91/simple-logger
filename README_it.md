@@ -105,7 +105,7 @@ All’avvio di `node app.js` otterrai:
 
 ## Contribuire
 
-PR e issue benvenuti su [GitHub](https://github.com/_zitus_/simple-logger)
+PR e issue benvenuti su [GitHub](https://github.com/zitus91/simple-logger)
 
 ---
 
